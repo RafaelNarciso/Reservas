@@ -1,0 +1,14 @@
+{
+  "AWSEBDockerVersion": "1",
+  "image": {
+    "reservas": {
+      "name": "reservas",
+      "update": "true"
+    }
+  },
+  "Ports": [
+    {
+      "ContainerPort": "3000"
+    }
+  ]
+}
